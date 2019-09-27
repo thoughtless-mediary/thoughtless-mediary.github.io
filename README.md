@@ -1,3 +1,3 @@
 # thoughtless-mediary.github.io
-test website at:
+test website @:
 https://thoughtless-mediary.github.io/
