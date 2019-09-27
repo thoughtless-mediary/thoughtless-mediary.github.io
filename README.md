@@ -1,2 +1,3 @@
 # thoughtless-mediary.github.io
-test blog
+test website at:
+https://thoughtless-mediary.github.io/
